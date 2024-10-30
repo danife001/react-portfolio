@@ -1,0 +1,46 @@
+.inicio {
+    font-family: Arial, sans-serif;
+
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    transform: translatey(50%);
+}
+
+.inicio_contenedor {
+    text-align: left;
+}
+
+.inicio_titulo {
+    font-size: 80px;
+    margin: 0;
+    color: #ffffff77;
+}
+
+.inicio_nombre,
+.inicio_profesion {
+    font-size: 30px;
+    margin: 0;
+}
+
+.inicio_nombre span {
+    color: #00aaff;
+}
+
+.experience {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.icons {
+    margin-top: 20px;
+}
+
+.icons a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 24px;
+    margin: 0 10px;
+}
