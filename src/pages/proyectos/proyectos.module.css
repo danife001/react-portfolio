@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .projects {
     color: white;
     display: flex;
@@ -27,4 +28,35 @@
 
 .img {
     max-height: 200px;
+=======
+.projects {
+    color: white;
+    display: flex;
+    justify-content: center;
+    /* padding-left: 14.5%; */
+    padding-top: 5%;
+}
+
+.contenido {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.descripcion {
+    width: 300px;
+    padding: 0;
+}
+
+.descripcion h1 {
+    line-height: 0;
+}
+
+.descripcion h3 {
+    text-align: justify;
+}
+
+.img {
+    max-height: 200px;
+>>>>>>> c0c07ef9e2ca9188decae3f5b5407059fbd2b533
 }

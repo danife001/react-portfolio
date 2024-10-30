@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .centered {
     display: flex;
     justify-content: center;
@@ -38,4 +39,46 @@
 
     background-color: #2f273f;
     line-height: 0;
+=======
+.centered {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border: 1px solid #ccc;
+    border-radius: 100px;
+    padding: 0px;
+    overflow: hidden;
+    height: 180px;
+    width: 50px;
+    background-color: #2f273f;
+    position: absolute;
+    margin-right: 20px;
+    right: 0;
+    transform: translatey(70%);
+}
+
+.centered ul {
+    background-color: #2f273f;
+    list-style-type: none;
+    padding: 0;
+
+}
+
+.centered ul li {
+    padding: 5px 0;
+    background-color: #2f273f;
+    display: flex;
+    justify-content: center;
+}
+
+.identification {
+    font-size: 30px;
+    color: #ffffff
+}
+
+.centered ul li * {
+
+    background-color: #2f273f;
+    line-height: 0;
+>>>>>>> c0c07ef9e2ca9188decae3f5b5407059fbd2b533
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .service_item {
     background-color: rgba(223, 221, 228, 0.281);
     border-radius: 10px;
@@ -22,4 +23,30 @@
 
 .icono * {
     background-color: inherit;
+=======
+.service_item {
+    background-color: rgba(223, 221, 228, 0.281);
+    border-radius: 10px;
+    padding: 20px;
+    width: 23%;
+    text-align: center;
+
+    color: #ffffff;
+}
+
+.icono {
+    font-size: 35px;
+    color: inherit;
+    line-height: 0;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.titulo {
+    font-size: 18px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.icono * {
+    background-color: inherit;
+>>>>>>> c0c07ef9e2ca9188decae3f5b5407059fbd2b533
 }
